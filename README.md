@@ -1,0 +1,1 @@
+# hypr-control-center
