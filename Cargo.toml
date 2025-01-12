@@ -1,0 +1,9 @@
+[package]
+name = "hypr-control-center"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.23"
+eframe = "0.23"
+tokio = { version = "1", features = ["full"] }
